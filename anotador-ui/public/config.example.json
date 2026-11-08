@@ -1,0 +1,6 @@
+{
+  "mode": "argilla",
+  "apiUrl": "",
+  "apiKey": "PEGA AQUÍ ARGILLA_API_KEY DEL ARCHIVO annotation-review/.env",
+  "workspace": "historia"
+}
